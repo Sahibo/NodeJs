@@ -1,0 +1,19 @@
+#filter {
+  margin-bottom: 20px;
+}
+
+#filter label {
+  margin-right: 10px;
+}
+
+#list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#list li {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
